@@ -64,6 +64,10 @@
 适用于Linux和Android的硬核反网暴进阶型的社会工程学工具集。
 支持部分中文，可对网络暴力施暴者进行精确互联网打击
 
+<style>p{color:green}</style>
+<div style='width:100px;height:100px;background-color:green'></div>
+<button style='background-color:green'>123213</button>
+
 #### 软件架构
 采用Python编程语言，可直接在Linux和Android（termux终端内）运行。使用Python的os,requests等库编写。
 
