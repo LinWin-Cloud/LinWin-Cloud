@@ -4,7 +4,7 @@
                        
 ## 著有开源软件
 
-1. Setool Master          （php,python,html,css,js）           进阶型社会工程学工具集，适用于个人的高级攻击和瘫痪
+1. Setool Master          -（php,python,html,css,js）           进阶型社会工程学工具集，适用于个人的高级攻击和瘫痪
 2. Setool Linux            (python ,html ,css ,js)             轻量级社会工程学工具集，适用于个人的普通攻击和瘫痪
 3. H_Lan_Chat              (html , js ,css)                    局域网的共享工具，支持http和https协议，支持内网穿透
 4. Web Terminal            (html , js ,css)                    Web平台高级终端，设计也用于社会工程学辅助、个人信息收集、Web攻防辅助
