@@ -1,36 +1,7 @@
 ## LinWin-Cloud
 
 熟悉Java、python、JavaScript、HTML/css和linux
-                       
-## 著有开源软件
-
-1. Setool Master
-  -（php,python,html,css,js）           进阶型社会工程学工具集，适用于个人的高级攻击和瘫痪
-
-2. Setool Linux
-  - (python ,html ,css ,js)             轻量级社会工程学工具集，适用于个人的普通攻击和瘫痪
-
-3. H_Lan_Chat
-   - (html , js ,css)                    局域网的共享工具，支持http和https协议，支持内网穿透
-
-4. Web Terminal
-   - (html , js ,css)                    Web平台高级终端，设计也用于社会工程学辅助、个人信息收集、Web攻防辅助
-
-5. Basic_Virus
-   - (vbs,vb,bat)                        内置多个计算机破坏性脚本，适用于Windows，每个都可以瘫痪计算机的运行
-     
-6. Setool ToGo
-   - (Python,css,js,html,shell)          设计用于基于SSH的远程及时社工工具集，专门设计用于隐秘渗透
-8. Setool-Main
-    - (Java,Python,CSS,JS,HTML)           企业级别社会工程学测试和Web渗透辅助
-10. Ux-js                   (JavaScript,css)                    可用于webAPP开发的JavaScriptUI框架
-
-   
-11. openLinwin              (Java,python,html)                  高性能Web服务器软件
-12. linwin DBserver        (Java,js,html,shell,ts,python)      高性能非关系性数据库软件
-13. LinwinSploit           (Java,Python,js,shell,bat,html,css) 木马病毒渗透测试软件
-14. LinwinSHS Server       (Java , python , HTML, shell)       超高性能Web服务器软件
-15. Meta Attacker          (C++,Shell)                         自动化DDOS软件
+                    
 
 
 ## About me
